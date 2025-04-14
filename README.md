@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashay30&label=Profile%20views&color=0e75b6&style=flat" alt="aashay30" /> </p>
 
-- 🔭 I’m currently working on **learning web development**
+- 🔭 I’m currently **learning web development**
 
-- 🌱 I’m currently learning **full stack web development.**
+- 🌱 I’m currently building projects on **full stack web development.**
 
 - ⚡ Fun fact **I think I am funny😊**
 
