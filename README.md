@@ -42,7 +42,6 @@
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=aashay30&show_icons=true&theme=react&border_color=61dafb&border_radius=10" alt="GitHub Stats" />
 
-### ⚡ Github Stats
 <p align="center">
   <p align="center"> 
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aashay30&theme=solarized_dark"  display=block width=100% height=auto alt="1">
